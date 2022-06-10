@@ -3,8 +3,10 @@ ______":school:" : "Computer Engineer", <br/>
 ______":name_badge:" : "Developer", <br/>
 ______":four_leaf_clover:" : "Bitcoiner since 2016", <br/>
 ______":work:" : "to build better place", <br/>
-______":email:" : "Send me an [email](mailto:cassianozucco@gmail.com) [Translate PT-BR: Vamos tc?]", <br/>
 ______":aquarius:" : "And i'm AquarianMan != Aquaman:trident:"<br/>
+______":email:" : "Send me an [email](mailto:cassianozucco@gmail.com)", <br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
