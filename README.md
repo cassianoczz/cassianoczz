@@ -13,6 +13,7 @@ if __name__ == '__main__':
 ```    
 
 ### my_stats.py:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cassianoczz&theme=python-dark&hide_border=true&ring=DD2727)](https://git.io/streak-stats)
 
 
 [![Linkedin: cassianozucco](https://img.shields.io/badge/-cassianozucco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cassianozucco/)](https://www.linkedin.com/in/cassianozucco/) 
